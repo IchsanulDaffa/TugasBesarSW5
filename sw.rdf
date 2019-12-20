@@ -1,0 +1,83 @@
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:foaf="http://xmlns.com/foaf/0.1/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:bio="http://purl.org/vocab/bio/0.1/">
+
+<rdf:Description rdf:about="https://www.usu.ac.id/images/Foto_SA/Runtung.jpg">
+ <foaf:name>Prof. Dr. Runtung, S.H., M.Hum.</foaf:name>
+ <dc:image>https://www.usu.ac.id/images/Foto_SA/Runtung.jpg</dc:image>
+ <bio:position>Rektor</bio:position>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.usu.ac.id/images/Foto_SA/Rosmayati.jpg">
+ <foaf:name>Prof. Dr. Ir. Rosmayati, M.S.</foaf:name>
+ <dc:image>https://www.usu.ac.id/images/Foto_SA/Rosmayati.jpg</dc:image>
+ <bio:position>Wakil Rektor I Bidang Akademik,  Kemahasiswaan, dan Kealumnian</bio:position>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.usu.ac.id/images/Foto_SA/Muhammad_Fidel_Ganis_Siregar.jpg">
+ <foaf:name>Prof. Dr. dr. Muhammad Fidel Ganis Siregar, M.Ked.(O.G.), Sp.O.G.(K.)</foaf:name>
+ <dc:image>https://www.usu.ac.id/images/Foto_SA/Muhammad_Fidel_Ganis_Siregar.jpg</dc:image>
+ <bio:position>Wakil Rektor II Bidang Keuangan dan Sumber Daya Manusia</bio:position>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.usu.ac.id/images/Foto_SA_Baru/WR_III.jpg">
+ <foaf:name>Prof. Drs. Mahyuddin K. M. Nasution, M.I.T., Ph.D.</foaf:name>
+ <dc:image>https://www.usu.ac.id/images/Foto_SA_Baru/WR_III.jpg</dc:image>
+ <bio:position>Wakil Rektor III Bidang Penelitian, Pengabdian kepada Masyarakat, dan Kerjasama</bio:position>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.usu.ac.id/images/Foto_SA/Bustami_Syam.jpg">
+ <foaf:name>Prof. Dr. Ir. Bustami Syam, M.S.M.E.</foaf:name>
+ <dc:image>https://www.usu.ac.id/images/Foto_SA/Bustami_Syam.jpg</dc:image>
+ <bio:position>Wakil Rektor IV Bidang Informasi, Perencanaan, dan Pengembangan</bio:position>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.usu.ac.id/images/Foto_SA/Luhut_Sihombing.jpg">
+ <foaf:name>Ir. Luhut Sihombing, M.P.</foaf:name>
+ <dc:image>https://www.usu.ac.id/images/Foto_SA/Luhut_Sihombing.jpg</dc:image>
+ <bio:position>Wakil Rektor V Bidang Pengelolaan Aset dan Usaha</bio:position>
+</rdf:Description>
+
+
+<rdf:Description rdf:about="https://www.usu.ac.id/id/fakultas-sekolah.html">
+ <foaf:names>Ekonomi dan Bisnis</foaf:names>
+ <foaf:names>Farmasi</foaf:names>
+ <foaf:names>Hukum</foaf:names>
+ <foaf:names>Ilmu Budaya</foaf:names>
+ <foaf:names>Ilmu Komputer dan Teknologi Informasi</foaf:names>
+ <foaf:names>Ilmu Sosial dan Ilmu Politik</foaf:names>
+ <foaf:names>Kedokteran</foaf:names>
+ <foaf:names>Kedokteran Gigi</foaf:names>
+ <foaf:names>Kehutan</foaf:names>
+ <foaf:names>Keperawatan</foaf:names>
+ <foaf:names>Kesehatan Masyarakat</foaf:names>
+ <foaf:names>Matematika dan Ilmu Pengetahuan Alam</foaf:names>
+ <foaf:names>Pertanian</foaf:names>
+ <foaf:names>Psikologi</foaf:names>
+ <foaf:names>Teknik</foaf:names>
+ <foaf:names>Pascasarjana</foaf:names>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.usu.ac.id/id/">
+ <dc:type>Mesjid</dc:type>
+ <dc:type>gereja</dc:type>
+ <dc:type>bus USU</dc:type>
+ <dc:type>sepeda USU</dc:type>
+ <dc:type>Lapangan Baseball</dc:type>
+ <dc:type>Stadion</dc:type>
+ <dc:type>Asrama Putri</dc:type>
+ <dc:type>Asrama Putra</dc:type>
+ <dc:type>Poliklinik</dc:type>
+ <dc:type>Balai Pertemuan</dc:type>
+ <dc:type>Lintasan Atletik</dc:type>
+ <dc:type>RSP USU</dc:type>
+ <dc:type>RSPGM</dc:type>
+ <dc:type>Akses Disabilitas</dc:type>
+</rdf:Description>
+
+
+
+
+</rdf:RDF>
